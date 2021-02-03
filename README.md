@@ -17,7 +17,7 @@ $.urlParam = function(name){
     }
 }
  
-url = '/source/boi/climate/'+ $.urlParam('file');
+url = '/source/pathname'+ $.urlParam('file');
 
 </script>
 <pre id="data">
